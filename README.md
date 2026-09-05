@@ -5,8 +5,38 @@
 
 <p align="center">
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-29%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-30%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Movalabs-crew/mova-store/graphs/contributors"><img src="https://img.shields.io/badge/%F0%9F%A5%87%20Rank-%231%20Top%20Contributor-ffd700?style=for-the-badge&logo=stellar&logoColor=white" /></a>
   <a href="https://x.com/RanjeetBhaxfo"><img src="https://img.shields.io/badge/Twitter-@RanjeetBhaxfo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎖️ GitHub Achievements & Honors
+
+<p align="center">
+  <a href="https://github.com/Ranjeet2063?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark Silver (30+ Merged PRs)" title="Pull Shark Silver: 30+ Merged Pull Requests" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ranjeet2063?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw: Closed within 5 minutes" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ranjeet2063?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO: Merged PR autonomously without review" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ranjeet2063?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored merged pull requests" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🦈 Pull Shark (Silver Tier • 30+ Merged PRs)</b> &nbsp;•&nbsp; 
+  <b>⚡ Quickdraw</b> &nbsp;•&nbsp; 
+  <b>🚀 YOLO</b> &nbsp;•&nbsp; 
+  <b>👯 Pair Extraordinaire</b>
 </p>
 
 ---
@@ -32,7 +62,7 @@ Here are some of my major contributions to high-impact open-source repositories:
 | **[Lilly Protocol](https://github.com/Lilly-Protocol)** | **Decentralized AI & Agent Runtime** | **44 PRs Submitted** across SDK, Backend, Smart Contracts, & Frontend | ⏳ **Active Review Queue** |
 | **[Technocore Chat](https://github.com/flop-labs/technocore-chat)** | **Flop Labs / Airdrop Engine** | [PR #661](https://github.com/flop-labs/technocore-chat/pull/661) — Autonomous Agent Multi-Framework Adapter (LangChain/CrewAI) | 🚀 **Submitted & Verified** |
 
-👉 **[Click Here to view all 29+ Merged PRs on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
+👉 **[Click Here to view all 30+ Merged PRs on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
 
 ---
 
