@@ -11,6 +11,14 @@
 
 ---
 
+### 🚀 Flagship Projects & Published Packages
+
+| Project | Registry / Links | Description | Tech Stack |
+|---|---|---|---|
+| **[NepalPay](https://github.com/Ranjeet2063/nepal-pay)** | [![npm](https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/nepal-pay) [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/nepal-pay?style=flat-square&logo=github)](https://github.com/Ranjeet2063/nepal-pay) | Unified, zero-dependency payment gateway SDK for eSewa (ePaisa V2), Khalti (V2) & Fonepay | TypeScript • Web Crypto • Node • Bun |
+
+---
+
 ### 🏆 Highlighted Open-Source Contributions & Merged PRs
 
 Here are some of my major contributions to high-impact open-source repositories:
