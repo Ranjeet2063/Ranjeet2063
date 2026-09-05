@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=220&section=header&text=Hi%20there,%20I'm%20Ranjeet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Open-Source%20Contributor%20•%20Web3%20Builder&descFontSize=18&descAlignY=62" width="100%"/>
 </div>
 
+<div align="center" style="margin-top: -15px; margin-bottom: 15px;">
+  <img src="https://raw.githubusercontent.com/Ranjeet2063/Ranjeet2063/main/assets/avatar.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #eab308; box-shadow: 0 0 25px rgba(234, 179, 8, 0.4); object-fit: cover;" alt="Ranjeet" />
+</div>
+
 <p align="center">
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-29%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -19,6 +23,7 @@ Here are some of my major contributions to high-impact open-source repositories:
 | **[TT-Metal](https://github.com/tenstorrent/tt-metal)** | **Tenstorrent** (Jim Keller) ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — `fix(ttnn): import torch inside _create_golden_function_topk` | 🟣 **MERGED ON `main`** |
 | **[Mova Store](https://github.com/Movalabs-crew/mova-store)** | **Stellar / Soroban Ecosystem** | **28 Merged PRs** (Smart contracts, Next.js, CI gates, unit tests) | 🥇 **#1 Top Contributor** |
 | **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Web3 AI Agent Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` cryptographic memory & agent kit | 🏆 **APPROVED by Maintainers** |
+| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **Yarsa Labs / ERPNext Nepal** ⭐ | [PR #299](https://github.com/yarsa/nepal-compliance/pull/299) — `fix(cbms): handle Document instance in sales invoice on_submit handler` | 🚀 **Submitted & Verified** |
 | **[Lilly Protocol](https://github.com/Lilly-Protocol)** | **Decentralized AI & Agent Runtime** | **44 PRs Submitted** across SDK, Backend, Smart Contracts, & Frontend | ⏳ **Active Review Queue** |
 | **[Technocore Chat](https://github.com/flop-labs/technocore-chat)** | **Flop Labs / Airdrop Engine** | [PR #661](https://github.com/flop-labs/technocore-chat/pull/661) — Autonomous Agent Multi-Framework Adapter (LangChain/CrewAI) | 🚀 **Submitted & Verified** |
 
