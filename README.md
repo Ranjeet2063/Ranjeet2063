@@ -8,6 +8,7 @@
   <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-31%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Movalabs-crew/mova-store/graphs/contributors"><img src="https://img.shields.io/badge/%F0%9F%A5%87%20Rank-%231%20Top%20Contributor-ffd700?style=for-the-badge&logo=stellar&logoColor=white" /></a>
   <a href="https://x.com/RanjeetBhaxfo"><img src="https://img.shields.io/badge/Twitter-@RanjeetBhaxfo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
