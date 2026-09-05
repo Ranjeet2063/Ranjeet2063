@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=220&section=header&text=Hi%20there,%20I'm%20Ranjeet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Open-Source%20Contributor%20•%20Web3%20Builder&descFontSize=18&descAlignY=62" width="100%"/>
 </div>
 
-<div align="center" style="margin-top: -15px; margin-bottom: 15px;">
-  <img src="https://raw.githubusercontent.com/Ranjeet2063/Ranjeet2063/main/assets/avatar.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #eab308; box-shadow: 0 0 25px rgba(234, 179, 8, 0.4); object-fit: cover;" alt="Ranjeet" />
-</div>
 
 <p align="center">
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
