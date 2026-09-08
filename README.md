@@ -13,7 +13,7 @@
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ranjeetk025-363@nec.edu.np"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:guptakumarranjeet150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -113,7 +113,7 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 
 - **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
 - **Twitter / X**: [@RanjeetBhaxfo](https://x.com/RanjeetBhaxfo)
-- **Email**: [ranjeetk025-363@nec.edu.np](mailto:ranjeetk025-363@nec.edu.np)
+- **Email**: [guptakumarranjeet150@gmail.com](mailto:guptakumarranjeet150@gmail.com)
 - **GitHub**: [Ranjeet2063](https://github.com/Ranjeet2063)
 
 <div align="center">
