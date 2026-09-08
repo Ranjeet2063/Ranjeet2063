@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=220&section=header&text=Hi%20there,%20I%20am%20Ranjeet&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web3%20Engineer%20%7C%20Soroban%20%26%20Rust%20Specialist%20%7C%20135%2B%20Merged%20PRs&descFontSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=190&section=header&text=Ranjeet%20Kumar%20Sah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web3%20%26%20Soroban%20Engineer&descFontSize=20&descAlignY=60" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ranjeet2063">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=135%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
