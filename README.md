@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/Ranjeet2063">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=135%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=138%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-135%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-138%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <b>🦈 Pull Shark (Gold Tier • 135+ Merged PRs)</b> &nbsp;•&nbsp; 
+  <b>🦈 Pull Shark (Gold Tier • 138+ Merged PRs)</b> &nbsp;•&nbsp; 
   <b>⚡ Quickdraw</b> &nbsp;•&nbsp; 
   <b>🚀 YOLO</b> &nbsp;•&nbsp; 
   <b>👯 Pair Extraordinaire</b>
@@ -58,6 +58,8 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 
 | Organization / Project | Domain & Ecosystem | Highlights & Scope | Verified Status |
 |---|---|---|---|
+| **[Invoice Liquidity Network](https://github.com/Invoice-Liquidity-Network)** | **Institutional DeFi & Liquidity Rails (Stellar)** | [PR #820](https://github.com/Invoice-Liquidity-Network/ILN-Frontend/pull/820) — E2E testnet smoke test resilience & semantic landmark fixes | 🚀 **PR #820 SUBMITTED** |
+| **[EduVault](https://github.com/Eduvault-stellar/eduvault)** | **Decentralized Educational Credentials (Stellar)** | [PR #212](https://github.com/Eduvault-stellar/eduvault/pull/212) — Centralized upload MIME policy, security runbooks & 25 unit tests | 🚀 **PR #212 SUBMITTED** |
 | **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol (Stellar/Soroban)** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints, receipt validators) | 🟣 **22 PRs MERGED** |
 | **[Axionvera Network](https://github.com/Axionvera/axionvera-network)** | **Decentralized Escrow & Settlement** | **5 Merged PRs** (Deployment runbooks, MVP fixtures, vault smoke tests, initialization validators) | 🟣 **5 PRs MERGED** |
 | **[Epta-Node / ai-net](https://github.com/Epta-Node/ai-net)** | **Decentralized AI Agent Coordination Network** | [PR #533](https://github.com/Epta-Node/ai-net/pull/533) — Cargo workspace members, orphaned crate compilation & full CI pipeline | 🟣 **MERGED ON `main`** |
@@ -67,7 +69,7 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 | **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **ERPNext Fiscal Compliance (Yarsa Labs)** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Comprehensive internationalization & Nepali num2words fallback testing suite | 🟣 **MERGED ON `main`** |
 | **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Autonomous Web3 AI Agent Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` memory & agent kit | 🏆 **APPROVED by Maintainers** |
 
-👉 **[View all 135+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
+👉 **[View all 138+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
 
 ---
 
