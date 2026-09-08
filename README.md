@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=220&section=header&text=Hi%20there,%20I'm%20Ranjeet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Open-Source%20Contributor%20•%20Web3%20Builder&descFontSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=220&section=header&text=Hi%20there,%20I'm%20Ranjeet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web3%20Engineer%20•%20Soroban%20%26%20Rust%20Specialist%20•%20135%2B%20Merged%20PRs&descFontSize=18&descAlignY=62" width="100%"/>
 </div>
 
-
 <p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-135%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-31%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/Movalabs-crew/mova-store/graphs/contributors"><img src="https://img.shields.io/badge/%F0%9F%A5%87%20Rank-%231%20Top%20Contributor-ffd700?style=for-the-badge&logo=stellar&logoColor=white" /></a>
-  <a href="https://x.com/RanjeetBhaxfo"><img src="https://img.shields.io/badge/Twitter-@RanjeetBhaxfo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:ranjeetk025-363@nec.edu.np"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <h3>💼 Available for Remote Web3 Contracts, Full-Time Roles & Contributor Retainers</h3>
+  <p>Specializing in <b>Soroban Smart Contracts (Rust)</b>, <b>High-Throughput Backends (TypeScript/Node/Go)</b>, and <b>Automated CI/CD Test Infrastructure</b>.</p>
+</div>
 
 ---
 
@@ -17,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/Ranjeet2063?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark Silver (30+ Merged PRs)" title="Pull Shark Silver: 30+ Merged Pull Requests" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="95" alt="Pull Shark Gold" title="Pull Shark Gold: 100+ Merged Pull Requests" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Ranjeet2063?tab=achievements">
@@ -34,11 +38,30 @@
 </p>
 
 <p align="center">
-  <b>🦈 Pull Shark (Silver Tier • 31+ Merged PRs)</b> &nbsp;•&nbsp; 
+  <b>🦈 Pull Shark (Gold Tier • 135+ Merged PRs)</b> &nbsp;•&nbsp; 
   <b>⚡ Quickdraw</b> &nbsp;•&nbsp; 
   <b>🚀 YOLO</b> &nbsp;•&nbsp; 
   <b>👯 Pair Extraordinaire</b>
 </p>
+
+---
+
+### 🏆 Highlighted Production Contributions & Merged PRs
+
+Proven track record across leading Web3, AI, and enterprise production codebases:
+
+| Organization / Project | Domain & Ecosystem | Highlights & Scope | Verified Status |
+|---|---|---|---|
+| **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol (Stellar/Soroban)** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints, receipt validators) | 🟣 **22 PRs MERGED** |
+| **[Axionvera Network](https://github.com/Axionvera/axionvera-network)** | **Decentralized Escrow & Settlement** | **5 Merged PRs** (Deployment runbooks, MVP fixtures, vault smoke tests, initialization validators) | 🟣 **5 PRs MERGED** |
+| **[Epta-Node / ai-net](https://github.com/Epta-Node/ai-net)** | **Decentralized AI Agent Coordination Network** | [PR #533](https://github.com/Epta-Node/ai-net/pull/533) — Cargo workspace members, orphaned crate compilation & full CI pipeline | 🟣 **MERGED ON `main`** |
+| **[Trustless Work](https://github.com/Trustless-Work)** | **Multi-Party Escrow Smart Contracts** | **4 Merged PRs** across agency escrow contracts & testing suites | 🟣 **4 PRs MERGED** |
+| **[drydocs / tholos](https://github.com/drydocs/tholos)** | **Institutional Soroban Vault Protocol** | [PR #168](https://github.com/drydocs/tholos/pull/168) — Soroban smart contract authorization & state management | 🟣 **MERGED ON `main`** |
+| **[TT-Metal (Tenstorrent)](https://github.com/tenstorrent/tt-metal)** | **Silicon AI Hardware (Jim Keller)** ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — PyTorch top-k golden model lazy import optimization | 🟣 **MERGED ON `main`** |
+| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **ERPNext Fiscal Compliance (Yarsa Labs)** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Comprehensive internationalization & Nepali num2words fallback testing suite | 🟣 **MERGED ON `main`** |
+| **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Autonomous Web3 AI Agent Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` memory & agent kit | 🏆 **APPROVED by Maintainers** |
+
+👉 **[View all 135+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
 
 ---
 
@@ -50,37 +73,17 @@
 
 ---
 
-### 🏆 Highlighted Open-Source Contributions & Merged PRs
-
-Here are some of my major contributions to high-impact open-source repositories:
-
-| Project | Organization / Stars | Contribution / PR | Status |
-|---|---|---|---|
-| **[TT-Metal](https://github.com/tenstorrent/tt-metal)** | **Tenstorrent** (Jim Keller) ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — `fix(ttnn): import torch inside _create_golden_function_topk` | 🟣 **MERGED ON `main`** |
-| **[Mova Store](https://github.com/Movalabs-crew/mova-store)** | **Stellar / Soroban Ecosystem** | **28 Merged PRs** (Smart contracts, Next.js, CI gates, unit tests) | 🥇 **#1 Top Contributor** |
-| **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Web3 AI Agent Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` cryptographic memory & agent kit | 🏆 **APPROVED by Maintainers** |
-| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **Yarsa Labs / ERPNext Nepal** ⭐ | [PR #299](https://github.com/yarsa/nepal-compliance/pull/299) (CBMS), [PR #300](https://github.com/yarsa/nepal-compliance/pull/300) (B.S. Depreciation), [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) (Num2Words 98% Test Suite) | 🚀 **Submitted & Verified** |
-| **[Lilly Protocol](https://github.com/Lilly-Protocol)** | **Decentralized AI & Agent Runtime** | **44 PRs Submitted** across SDK, Backend, Smart Contracts, & Frontend | ⏳ **Active Review Queue** |
-| **[Technocore Chat](https://github.com/flop-labs/technocore-chat)** | **Flop Labs / Airdrop Engine** | [PR #661](https://github.com/flop-labs/technocore-chat/pull/661) — Autonomous Agent Multi-Framework Adapter (LangChain/CrewAI) | 🚀 **Submitted & Verified** |
-
-👉 **[Click Here to view all 31+ Merged PRs on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
-
----
-
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Engineering Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stellar%20%2F%20Soroban-000000?style=flat-square&logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soroban%20%2F%20Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -97,6 +100,13 @@ Here are some of my major contributions to high-impact open-source repositories:
 </div>
 
 ---
+
+### 📬 Let's Connect
+
+- **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
+- **Twitter / X**: [@RanjeetBhaxfo](https://x.com/RanjeetBhaxfo)
+- **Email**: [ranjeetk025-363@nec.edu.np](mailto:ranjeetk025-363@nec.edu.np)
+- **GitHub**: [Ranjeet2063](https://github.com/Ranjeet2063)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=90&section=footer" width="100%"/>
