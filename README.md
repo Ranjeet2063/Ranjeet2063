@@ -18,8 +18,9 @@
 
 <div align="center">
   <h3>💼 Available for Remote Web3 Contracts, Full-Time Roles & Contributor Retainers</h3>
-  <p>Specializing in <b>Soroban Smart Contracts (Rust)</b>, <b>High-Throughput Backends (TypeScript/Node/Go)</b>, and <b>Automated CI/CD Test Infrastructure</b>.</p>
+  <p>Specializing in <b>Soroban Smart Contracts (Rust)</b>, <b>AI Autonomous Agent Tooling</b>, <b>High-Throughput Backends (TypeScript/Node/Go)</b>, and <b>Deterministic DeFi Systems</b>.</p>
 </div>
+
 
 ---
 
@@ -52,7 +53,24 @@
 
 ---
 
+### ⭐ Flagship Open-Source Architecture: [`soroban-agentkit`](https://github.com/Ranjeet2063/soroban-agentkit)
+
+<p align="center">
+  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Architecture-AI%20Agents%20%E2%80%A2%20Soroban%20SDK-00d2ff?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Compatibility-OpenAI%20%7C%20ElizaOS%20%7C%20LangChain-a855f7?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Status-Production%20Ready-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
+</p>
+
+> **Autonomous AI Agent Toolkit for Stellar Blockchain & Soroban Smart Contracts**
+> - **Core Architecture**: Bridges Large Language Models (LLMs) and autonomous agent frameworks (ElizaOS, LangChain, OpenAI Function Calling) directly with Soroban smart contracts.
+> - **Security & Cryptography**: Client-side transaction signing with Ed25519 keypairs, zero-trust key isolation, and automatic Soroban XDR type serialization.
+> - **Ecosystem Impact**: Powers AI-driven on-chain settlements, balance queries, contract simulations, and SAC asset transfers with natural language.
+> 🔗 **Repository**: [github.com/Ranjeet2063/soroban-agentkit](https://github.com/Ranjeet2063/soroban-agentkit) &nbsp;•&nbsp; 📦 **NPM Package**: `soroban-agentkit`
+
+---
+
 ### 🏆 Highlighted Production Contributions & Merged PRs
+
 
 Proven track record across leading Web3, AI, and enterprise production codebases:
 
