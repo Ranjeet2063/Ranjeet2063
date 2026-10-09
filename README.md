@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/Ranjeet2063">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=166%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=206%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-166%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-206%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
