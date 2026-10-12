@@ -53,6 +53,23 @@
 
 ---
 
+### 🛡️ Sovereign Flagship Protocol: [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard)
+
+<p align="center">
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Language-Pure%20Rust-orange?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Architecture-Mathematical%20Invariant%20Firewall-blue?style=for-the-badge&logo=shield&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Blockchain-Stellar%20%2F%20Soroban-black?style=for-the-badge&logo=stellar&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Integrations-ElizaOS%20%7C%20Anthropic%20MCP-purple?style=for-the-badge&logo=openai&logoColor=white" /></a>
+</p>
+
+> **The World's First High-Performance Mathematical Invariant Firewall & Financial OS for Autonomous AI Agents**
+> - **The Problem Solved**: Eliminates prompt-injection wallet drains and model hallucinations from depleting Web3 agent treasuries.
+> - **Core Architecture**: Enforces the Proposer vs. Signer Enclave pattern with sub-millisecond Rust invariant verification (spend velocity, recipient whitelists, balance reserve floor).
+> - **Complete Stack**: Pure Rust Core Engine (`aetherguard-core`), Soroban Protocol State (`aetherguard-soroban`), Interactive CLI Simulator (`aetherguard-cli`), TypeScript SDK (`@aetherguard/sdk`), ElizaOS Plugin, and Anthropic MCP Server.
+> 🔗 **Repository**: [github.com/Ranjeet2063/aetherguard](https://github.com/Ranjeet2063/aetherguard)
+
+---
+
 ### ⭐ Flagship Open-Source Architecture: [`soroban-agentkit`](https://github.com/Ranjeet2063/soroban-agentkit)
 
 <p align="center">
