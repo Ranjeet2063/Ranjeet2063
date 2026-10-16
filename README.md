@@ -70,6 +70,23 @@
 
 ---
 
+### 🛡️ Flagship Developer Tooling: [`soroban-guard-action`](https://github.com/Ranjeet2063/soroban-guard-action)
+
+<p align="center">
+  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/GitHub%20Action-Marketplace-blueviolet?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/Release-v1.1.0-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/Auditor-WASM%20Gas%20%26%20Security-black?style=for-the-badge&logo=stellar&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" /></a>
+</p>
+
+> **Automated Smart Contract Security, Gas & WASM Budget CI Auditor for Stellar Soroban**
+> - **The Problem Solved**: Eliminates WASM bytecode bloat, missing `require_auth` state mutations, temporary storage leaks, and storage TTL expirations in CI before contracts hit mainnet.
+> - **Comprehensive Security Rules**: Enforces 6 production invariant rules (`SOROBAN-AUTH-01`, `SOROBAN-SAC-01`, `SOROBAN-STORAGE-02`, `SOROBAN-TTL-01`, `SOROBAN-MATH-01`, `SOROBAN-PANIC-01`).
+> - **Instant Drop-In**: Plug-and-play in any repository with `uses: Ranjeet2063/soroban-guard-action@v1`.
+> 🔗 **Repository**: [github.com/Ranjeet2063/soroban-guard-action](https://github.com/Ranjeet2063/soroban-guard-action) &nbsp;•&nbsp; 🏛️ **Release**: `v1.1.0`
+
+---
+
 ### ⭐ Flagship Open-Source Architecture: [`soroban-agentkit`](https://github.com/Ranjeet2063/soroban-agentkit)
 
 <p align="center">
