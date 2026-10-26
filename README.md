@@ -9,6 +9,7 @@
 </div>
 
 <p align="center">
+  <a href="https://ranjeet2063.github.io"><img src="https://img.shields.io/badge/Portfolio-ranjeet2063.github.io-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-222%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
@@ -51,6 +52,25 @@
   <b>🚀 YOLO</b> &nbsp;•&nbsp; 
   <b>👯 Pair Extraordinaire</b>
 </p>
+
+---
+
+### 🔬 Premier Formal Verification & SMT Prover: [`InvariantForge`](https://github.com/Ranjeet2063/InvariantForge)
+
+<p align="center">
+  <a href="https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml"><img src="https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Engine-Halmos%20%2B%20SMT%20Symbolic%20Prover-blueviolet?style=for-the-badge&logo=shield&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Solvers-Z3%20%7C%20Yices%202-orange?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" /></a>
+</p>
+
+> **Autonomous Dual-Engine Formal Verification & SMT Symbolic Prover for High-Assurance Smart Contracts**
+> - **The Problem Solved**: Replaces probabilistic fuzzing with mathematical certainty — proving protocol state invariants across all unbounded inputs or extracting exact counterexample states.
+> - **Dual Verification Architecture**: Combines stateful fuzzing (Foundry) with bounded/unbounded symbolic EVM execution (Halmos) and first-order first-principles constraint checking (Z3 / Yices 2 SMT).
+> - **Sub-Second Mathematical Proofs**: Proves insolvency prevention, constant-product AMM invariants, and reentrancy immunity in $< 0.20\text{s}$.
+> - **Zero-Config CLI**: Automated contract discovery, AST property extraction, and regression test generation.
+> 🔗 **Repository**: [github.com/Ranjeet2063/InvariantForge](https://github.com/Ranjeet2063/InvariantForge) &nbsp;•&nbsp; 🏛️ **Release**: [`v0.1.0`](https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0)
 
 ---
 
@@ -130,7 +150,12 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 
 | Project | Registry / Links | Description | Tech Stack |
 |---|---|---|---|
-| **[NepalPay](https://github.com/Ranjeet2063/nepal-pay)** | [![npm](https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/nepal-pay) [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/nepal-pay?style=flat-square&logo=github)](https://github.com/Ranjeet2063/nepal-pay) | Unified, zero-dependency payment gateway SDK for eSewa (ePaisa V2), Khalti (V2) & Fonepay | TypeScript • Web Crypto • Node • Bun |
+| **[InvariantForge](https://github.com/Ranjeet2063/InvariantForge)** | [![Release](https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=flat-square)](https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0) [![CI](https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ranjeet2063/InvariantForge/actions) | Dual-engine formal verification & SMT symbolic prover for smart contracts | Python • Halmos • Z3 SMT • Foundry EVM |
+| **[AetherGuard](https://github.com/Ranjeet2063/aetherguard)** | [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/aetherguard?style=flat-square&logo=github)](https://github.com/Ranjeet2063/aetherguard) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/Ranjeet2063/aetherguard) | High-performance mathematical invariant firewall & financial OS for AI agents | Pure Rust • Soroban • ElizaOS • Anthropic MCP |
+| **[soroban-guard-action](https://github.com/Ranjeet2063/soroban-guard-action)** | [![Marketplace](https://img.shields.io/badge/Action-v1.1.0-blueviolet?style=flat-square&logo=githubactions)](https://github.com/Ranjeet2063/soroban-guard-action) | Automated WASM bytecode, gas budget & security CI auditor for Soroban | GitHub Actions • Docker • Rust • Soroban |
+| **[soroban-agentkit](https://github.com/Ranjeet2063/soroban-agentkit)** | [![npm](https://img.shields.io/npm/v/soroban-agentkit?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/soroban-agentkit) | Autonomous AI agent toolkit & LLM tool bridge for Stellar & Soroban | TypeScript • Node.js • LangChain • ElizaOS |
+| **[NepalPay](https://github.com/Ranjeet2063/nepal-pay)** | [![npm](https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/nepal-pay) [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/nepal-pay?style=flat-square&logo=github)](https://github.com/Ranjeet2063/nepal-pay) | Unified, zero-dependency payment gateway SDK for eSewa (V2), Khalti (V2) & Fonepay | TypeScript • Web Crypto • Node • Bun |
+| **[sorobanflow](https://github.com/Ranjeet2063/sorobanflow)** | [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/sorobanflow?style=flat-square&logo=github)](https://github.com/Ranjeet2063/sorobanflow) | Continuous real-time streaming payment & payroll protocol on Stellar | Rust • Soroban SDK • Smart Contracts |
 
 ---
 
@@ -164,6 +189,7 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 
 ### 📬 Let's Connect
 
+- **Portfolio Website**: [ranjeet2063.github.io](https://ranjeet2063.github.io)
 - **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
 - **Twitter / X**: [@RanjeetBhaxfo](https://x.com/RanjeetBhaxfo)
 - **Email**: [guptakumarranjeet150@gmail.com](mailto:guptakumarranjeet150@gmail.com)
