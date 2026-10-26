@@ -13,7 +13,7 @@
   <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-222%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
-  <a href="https://contribute.grantfox.xyz"><img src="https://img.shields.io/badge/GrantFox-Rank%20%23901%20%7C%20735%20Pts-f97316?style=for-the-badge&logo=stellar&logoColor=white" /></a>
+  <a href="https://stellar.org"><img src="https://img.shields.io/badge/Stellar%20Soroban-Smart%20Contracts-000000?style=for-the-badge&logo=stellar&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:guptakumarranjeet150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
