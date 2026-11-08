@@ -1,28 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=190&section=header&text=Ranjeet%20Kumar%20Sah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web3%20%26%20Soroban%20Engineer&descFontSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=190&section=header&text=Ranjeet%20Kumar%20Sah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web3%2C%20Rust%20Systems%20%26%20Formal%20Verification%20Architect&descFontSize=19&descAlignY=60" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ranjeet2063">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=222%2B+Production+Merged+PRs+Across+Stellar;Rust+(Soroban+SDK)+%E2%80%A2+TypeScript+%E2%80%A2+Smart+Contracts;Building+High-Assurance+DeFi+%26+Escrow+Protocols;Open+for+Remote+Web3+Contracts+%26+Retainers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=222%2B+Production+Merged+PRs+Across+Stellar+%26+Silicon+Valleys;Pure+Rust+Systems+%E2%80%A2+Formal+Invariant+Provers+(Z3%20%2F%20Halmos);Creator+of+AetherGuard+%E2%80%A2+SentinelGuard+SaaS+%E2%80%A2+NepalPay;Open+for+High-Assurance+DeFi+Audits+%26+Global+Engineering+Roles" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://ranjeet2063.github.io"><img src="https://img.shields.io/badge/Portfolio-ranjeet2063.github.io-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-222%2B-a855f7?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/Open--Source-Contributor-00d2ff?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew%20Tap-brew%20install%20aetherguard-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~hey-dev.np"><img src="https://img.shields.io/badge/NPM%20Registry-nepal--pay-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://stellar.org"><img src="https://img.shields.io/badge/Stellar%20Soroban-Smart%20Contracts-000000?style=for-the-badge&logo=stellar&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063"><img src="https://img.shields.io/badge/Status-Open%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:guptakumarranjeet150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <h3>💼 Available for Remote Web3 Contracts, Full-Time Roles & Contributor Retainers</h3>
-  <p>Specializing in <b>Soroban Smart Contracts (Rust)</b>, <b>AI Autonomous Agent Tooling</b>, <b>High-Throughput Backends (TypeScript/Node/Go)</b>, and <b>Deterministic DeFi Systems</b>.</p>
+  <h3>🏛️ Available for Remote Web3 Contracts, Full-Time Roles & Contributor Retainers</h3>
+  <p>Specializing in <b>Soroban Smart Contracts (Rust)</b>, <b>Formal Invariant Provers (Z3 SMT / Halmos)</b>, <b>AI Autonomous Agent Security</b>, and <b>High-Throughput Financial Backends</b>.</p>
 </div>
-
 
 ---
 
@@ -55,126 +54,130 @@
 
 ---
 
-### 🔬 Premier Formal Verification & SMT Prover: [`InvariantForge`](https://github.com/Ranjeet2063/InvariantForge)
+## 💎 Sovereign Flagship Repositories & Published Infrastructure
 
-<p align="center">
-  <a href="https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml"><img src="https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Engine-Halmos%20%2B%20SMT%20Symbolic%20Prover-blueviolet?style=for-the-badge&logo=shield&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Solvers-Z3%20%7C%20Yices%202-orange?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" /></a>
+### 1. 🛡️ [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard) — AI Agent Invariant Security OS
+<p align="left">
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Language-Pure%20Rust-orange?style=flat-square&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-brew%20install%20aetherguard-FBB040?style=flat-square&logo=homebrew&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/aetherguard/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Integrations-ElizaOS%20%7C%20Anthropic%20MCP-purple?style=flat-square" /></a>
 </p>
 
-> **Autonomous Dual-Engine Formal Verification & SMT Symbolic Prover for High-Assurance Smart Contracts**
+> **The World's First Mathematical Invariant Firewall & Liquidity Safety OS for Autonomous Web3 AI Agents**
+> - **The Problem Solved**: Eliminates prompt-injection treasury drains, rogue agent spend loops, and model hallucinations.
+> - **Architecture**: Enforces memory-isolated hardware enclave pattern, sliding-window velocity caps, and balance solvency floors.
+> - **Instant Install**: `brew tap Ranjeet2063/tap && brew install aetherguard`  
+> 🔗 **Repository**: [github.com/Ranjeet2063/aetherguard](https://github.com/Ranjeet2063/aetherguard) &nbsp;•&nbsp; 🏛️ **Release**: [`v0.1.0`](https://github.com/Ranjeet2063/aetherguard/releases/tag/v0.1.0)
+
+---
+
+### 2. 🤖 [`SentinelGuard SaaS`](https://github.com/Ranjeet2063/sentinelguard-saas) — Autonomous GitHub Security Scanner
+<p align="left">
+  <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Platform-GitHub%20Marketplace%20App-2088FF?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Daemon-24%2F7%20Real--Time%20Audit-22C55E?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Engine-TypeScript%20%E2%80%A2%20Fastify-3178C6?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Tests-100%25%20Green-brightgreen?style=flat-square" /></a>
+</p>
+
+> **Autonomous GitHub Marketplace Security Scanner & Invariant Gatekeeper for Soroban & Smart Contracts**
+> - **The Problem Solved**: Prevents vulnerable contracts, unhandled panics, private key leaks, and missing authorization checks from reaching production branches.
+> - **Zero-Vulnerability Architecture**: Native zero-dependency assertion test runner, sub-millisecond response latency, and Stripe Connect automated billing integration.  
+> 🔗 **Repository**: [github.com/Ranjeet2063/sentinelguard-saas](https://github.com/Ranjeet2063/sentinelguard-saas)
+
+---
+
+### 3. 🔬 [`InvariantForge`](https://github.com/Ranjeet2063/InvariantForge) — Formal Verification & SMT Symbolic Prover
+<p align="left">
+  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Engine-Halmos%20%2B%20SMT%20Symbolic%20Prover-blueviolet?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Solvers-Z3%20%7C%20Yices%202-orange?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=flat-square" /></a>
+</p>
+
+> **Autonomous Dual-Engine Formal Verification & SMT Symbolic Prover for High-Assurance Protocols**
 > - **The Problem Solved**: Replaces probabilistic fuzzing with mathematical certainty — proving protocol state invariants across all unbounded inputs or extracting exact counterexample states.
-> - **Dual Verification Architecture**: Combines stateful fuzzing (Foundry) with bounded/unbounded symbolic EVM execution (Halmos) and first-order first-principles constraint checking (Z3 / Yices 2 SMT).
-> - **Sub-Second Mathematical Proofs**: Proves insolvency prevention, constant-product AMM invariants, and reentrancy immunity in $< 0.20\text{s}$.
-> - **Zero-Config CLI**: Automated contract discovery, AST property extraction, and regression test generation.
-> 🔗 **Repository**: [github.com/Ranjeet2063/InvariantForge](https://github.com/Ranjeet2063/InvariantForge) &nbsp;•&nbsp; 🏛️ **Release**: [`v0.1.0`](https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0)
+> - **Sub-Second Proofs**: Formally proves constant-product AMM invariants, insolvency immunity, and reentrancy resistance in $< 0.20\text{s}$.  
+> 🔗 **Repository**: [github.com/Ranjeet2063/InvariantForge](https://github.com/Ranjeet2063/InvariantForge)
 
 ---
 
-### 🛡️ Sovereign Flagship Protocol: [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard)
-
-<p align="center">
-  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Language-Pure%20Rust-orange?style=for-the-badge&logo=rust&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Architecture-Mathematical%20Invariant%20Firewall-blue?style=for-the-badge&logo=shield&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Blockchain-Stellar%20%2F%20Soroban-black?style=for-the-badge&logo=stellar&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Integrations-ElizaOS%20%7C%20Anthropic%20MCP-purple?style=for-the-badge&logo=openai&logoColor=white" /></a>
+### 4. 💳 [`NepalPay`](https://github.com/Ranjeet2063/nepal-pay) — Unified Nepal Payment Gateway SDK
+<p align="left">
+  <a href="https://www.npmjs.com/package/nepal-pay"><img src="https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm" /></a>
+  <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-brew%20install%20nepal--pay-FBB040?style=flat-square&logo=homebrew&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/nepal-pay"><img src="https://img.shields.io/badge/Zero--Dependency-Web%20Crypto-brightgreen?style=flat-square" /></a>
 </p>
 
-> **The World's First High-Performance Mathematical Invariant Firewall & Financial OS for Autonomous AI Agents**
-> - **The Problem Solved**: Eliminates prompt-injection wallet drains and model hallucinations from depleting Web3 agent treasuries.
-> - **Core Architecture**: Enforces the Proposer vs. Signer Enclave pattern with sub-millisecond Rust invariant verification (spend velocity, recipient whitelists, balance reserve floor).
-> - **Complete Stack**: Pure Rust Core Engine (`aetherguard-core`), Soroban Protocol State (`aetherguard-soroban`), Interactive CLI Simulator (`aetherguard-cli`), TypeScript SDK (`@aetherguard/sdk`), ElizaOS Plugin, and Anthropic MCP Server.
-> 🔗 **Repository**: [github.com/Ranjeet2063/aetherguard](https://github.com/Ranjeet2063/aetherguard)
+> **Unified, Zero-Dependency Payment Gateway SDK & Terminal CLI for eSewa (ePaisa V2), Khalti (V2), Fonepay & ConnectIPS**
+> - **Zero External Dependencies**: Pure Web Crypto API implementation for ultra-lean production deployments across Node.js, Bun, and Next.js App Router.
+> - **Instant Install**: `npm i nepal-pay` or `brew install nepal-pay`  
+> 🔗 **Repository**: [github.com/Ranjeet2063/nepal-pay](https://github.com/Ranjeet2063/nepal-pay) &nbsp;•&nbsp; 📦 **NPM**: [`nepal-pay`](https://www.npmjs.com/package/nepal-pay)
 
 ---
 
-### 🛡️ Flagship Developer Tooling: [`soroban-guard-action`](https://github.com/Ranjeet2063/soroban-guard-action)
-
-<p align="center">
-  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/GitHub%20Action-Marketplace-blueviolet?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/Release-v1.1.0-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/Auditor-WASM%20Gas%20%26%20Security-black?style=for-the-badge&logo=stellar&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/soroban-guard-action"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" /></a>
-</p>
-
-> **Automated Smart Contract Security, Gas & WASM Budget CI Auditor for Stellar Soroban**
-> - **The Problem Solved**: Eliminates WASM bytecode bloat, missing `require_auth` state mutations, temporary storage leaks, and storage TTL expirations in CI before contracts hit mainnet.
-> - **Comprehensive Security Rules**: Enforces 6 production invariant rules (`SOROBAN-AUTH-01`, `SOROBAN-SAC-01`, `SOROBAN-STORAGE-02`, `SOROBAN-TTL-01`, `SOROBAN-MATH-01`, `SOROBAN-PANIC-01`).
-> - **Instant Drop-In**: Plug-and-play in any repository with `uses: Ranjeet2063/soroban-guard-action@v1`.
-> 🔗 **Repository**: [github.com/Ranjeet2063/soroban-guard-action](https://github.com/Ranjeet2063/soroban-guard-action) &nbsp;•&nbsp; 🏛️ **Release**: `v1.1.0`
+### 5. 🌊 [`SorobanFlow`](https://github.com/Ranjeet2063/sorobanflow) — Continuous Streaming Payment Protocol
+> Turnkey automated payroll, continuous streaming & session-guarded vesting protocol on Stellar / Soroban.  
+> 🔗 **Repository**: [github.com/Ranjeet2063/sorobanflow](https://github.com/Ranjeet2063/sorobanflow)
 
 ---
 
-### ⭐ Flagship Open-Source Architecture: [`soroban-agentkit`](https://github.com/Ranjeet2063/soroban-agentkit)
-
-<p align="center">
-  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Architecture-AI%20Agents%20%E2%80%A2%20Soroban%20SDK-00d2ff?style=for-the-badge&logo=rust&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Compatibility-OpenAI%20%7C%20ElizaOS%20%7C%20LangChain-a855f7?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://github.com/Ranjeet2063/soroban-agentkit"><img src="https://img.shields.io/badge/Status-Production%20Ready-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
-</p>
-
-> **Autonomous AI Agent Toolkit for Stellar Blockchain & Soroban Smart Contracts**
-> - **Core Architecture**: Bridges Large Language Models (LLMs) and autonomous agent frameworks (ElizaOS, LangChain, OpenAI Function Calling) directly with Soroban smart contracts.
-> - **Security & Cryptography**: Client-side transaction signing with Ed25519 keypairs, zero-trust key isolation, and automatic Soroban XDR type serialization.
-> - **Ecosystem Impact**: Powers AI-driven on-chain settlements, balance queries, contract simulations, and SAC asset transfers with natural language.
-> 🔗 **Repository**: [github.com/Ranjeet2063/soroban-agentkit](https://github.com/Ranjeet2063/soroban-agentkit) &nbsp;•&nbsp; 📦 **NPM Package**: `soroban-agentkit`
+### 6. ⚙️ [`soroban-guard-action`](https://github.com/Ranjeet2063/soroban-guard-action) — GitHub Action Marketplace Auditor
+> Automated WASM size, gas budget optimization, and security invariant auditor for Soroban smart contracts in GitHub Actions.  
+> 🔗 **Repository**: [github.com/Ranjeet2063/soroban-guard-action](https://github.com/Ranjeet2063/soroban-guard-action)
 
 ---
 
-### 🏆 Highlighted Production Contributions & Merged PRs
+## 📦 1-Line Universal Developer Installation
 
+```bash
+# Install AetherGuard CLI (AI Agent Security OS) via Homebrew
+brew tap Ranjeet2063/tap && brew install aetherguard
 
-Proven track record across leading Web3, AI, and enterprise production codebases:
+# Install NepalPay CLI (Payment Gateway Suite)
+brew install nepal-pay
+# OR via npm:
+npm install -g nepal-pay
 
-| Organization / Project | Domain & Ecosystem | Highlights & Scope | Verified Status |
+# Integrate Soroban Security CI in GitHub Actions
+# In your .github/workflows/ci.yml:
+uses: Ranjeet2063/soroban-guard-action@v1
+```
+
+---
+
+## 🏆 Highlighted Production Merged PRs (222+ Merged)
+
+| Organization / Project | Domain & Ecosystem | Highlights & Impact | Status |
 |---|---|---|---|
-| **[Invoice Liquidity Network](https://github.com/Invoice-Liquidity-Network)** | **Institutional DeFi & Liquidity Rails (Stellar)** | [PR #820](https://github.com/Invoice-Liquidity-Network/ILN-Frontend/pull/820) — E2E testnet smoke test resilience & semantic landmark fixes | 🚀 **PR #820 SUBMITTED** |
-| **[EduVault](https://github.com/Eduvault-stellar/eduvault)** | **Decentralized Educational Credentials (Stellar)** | [PR #212](https://github.com/Eduvault-stellar/eduvault/pull/212) — Centralized upload MIME policy, security runbooks & 25 unit tests | 🚀 **PR #212 SUBMITTED** |
-| **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol (Stellar/Soroban)** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints, receipt validators) | 🟣 **22 PRs MERGED** |
-| **[Axionvera Network](https://github.com/Axionvera/axionvera-network)** | **Decentralized Escrow & Settlement** | **5 Merged PRs** (Deployment runbooks, MVP fixtures, vault smoke tests, initialization validators) | 🟣 **5 PRs MERGED** |
-| **[Epta-Node / ai-net](https://github.com/Epta-Node/ai-net)** | **Decentralized AI Agent Coordination Network** | [PR #533](https://github.com/Epta-Node/ai-net/pull/533) — Cargo workspace members, orphaned crate compilation & full CI pipeline | 🟣 **MERGED ON `main`** |
+| **[TT-Metal (Tenstorrent)](https://github.com/tenstorrent/tt-metal)** | **Silicon AI Hardware (Jim Keller)** ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — PyTorch top-k golden model lazy import optimization | 🟣 **MERGED ON `main`** |
+| **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Autonomous Web3 AI Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` agent memory kit | 🏆 **APPROVED** |
+| **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints) | 🟣 **22 PRs MERGED** |
+| **[Invoice Liquidity Network](https://github.com/Invoice-Liquidity-Network)** | **Institutional DeFi Rails (Stellar)** | [PR #820](https://github.com/Invoice-Liquidity-Network/ILN-Frontend/pull/820) — E2E testnet smoke test resilience & landmark fixes | 🚀 **PR SUBMITTED** |
+| **[Epta-Node / ai-net](https://github.com/Epta-Node/ai-net)** | **Decentralized AI Agent Network** | [PR #533](https://github.com/Epta-Node/ai-net/pull/533) — Cargo workspace members, orphaned crate compilation | 🟣 **MERGED ON `main`** |
+| **[Axionvera Network](https://github.com/Axionvera/axionvera-network)** | **Decentralized Escrow Protocol** | **5 Merged PRs** (Deployment runbooks, MVP fixtures, vault smoke tests) | 🟣 **5 PRs MERGED** |
 | **[Trustless Work](https://github.com/Trustless-Work)** | **Multi-Party Escrow Smart Contracts** | **4 Merged PRs** across agency escrow contracts & testing suites | 🟣 **4 PRs MERGED** |
 | **[drydocs / tholos](https://github.com/drydocs/tholos)** | **Institutional Soroban Vault Protocol** | [PR #168](https://github.com/drydocs/tholos/pull/168) — Soroban smart contract authorization & state management | 🟣 **MERGED ON `main`** |
-| **[TT-Metal (Tenstorrent)](https://github.com/tenstorrent/tt-metal)** | **Silicon AI Hardware (Jim Keller)** ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — PyTorch top-k golden model lazy import optimization | 🟣 **MERGED ON `main`** |
-| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **ERPNext Fiscal Compliance (Yarsa Labs)** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Comprehensive internationalization & Nepali num2words fallback testing suite | 🟣 **MERGED ON `main`** |
-| **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Autonomous Web3 AI Agent Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` memory & agent kit | 🏆 **APPROVED by Maintainers** |
+| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **ERPNext Fiscal Compliance (Yarsa Labs)** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Internationalization & Nepali num2words fallback test suite | 🟣 **MERGED ON `main`** |
 
 👉 **[View all 222+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
 
 ---
 
-### 🚀 Flagship Projects & Published Packages
+## 💖 Sponsorship & Strategic Backing
 
-| Project | Registry / Links | Description | Tech Stack |
-|---|---|---|---|
-| **[InvariantForge](https://github.com/Ranjeet2063/InvariantForge)** | [![Release](https://img.shields.io/badge/Release-v0.1.0-brightgreen?style=flat-square)](https://github.com/Ranjeet2063/InvariantForge/releases/tag/v0.1.0) [![CI](https://github.com/Ranjeet2063/InvariantForge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ranjeet2063/InvariantForge/actions) | Dual-engine formal verification & SMT symbolic prover for smart contracts | Python • Halmos • Z3 SMT • Foundry EVM |
-| **[AetherGuard](https://github.com/Ranjeet2063/aetherguard)** | [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/aetherguard?style=flat-square&logo=github)](https://github.com/Ranjeet2063/aetherguard) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/Ranjeet2063/aetherguard) | High-performance mathematical invariant firewall & financial OS for AI agents | Pure Rust • Soroban • ElizaOS • Anthropic MCP |
-| **[soroban-guard-action](https://github.com/Ranjeet2063/soroban-guard-action)** | [![Marketplace](https://img.shields.io/badge/Action-v1.1.0-blueviolet?style=flat-square&logo=githubactions)](https://github.com/Ranjeet2063/soroban-guard-action) | Automated WASM bytecode, gas budget & security CI auditor for Soroban | GitHub Actions • Docker • Rust • Soroban |
-| **[soroban-agentkit](https://github.com/Ranjeet2063/soroban-agentkit)** | [![npm](https://img.shields.io/npm/v/soroban-agentkit?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/soroban-agentkit) | Autonomous AI agent toolkit & LLM tool bridge for Stellar & Soroban | TypeScript • Node.js • LangChain • ElizaOS |
-| **[NepalPay](https://github.com/Ranjeet2063/nepal-pay)** | [![npm](https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/nepal-pay) [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/nepal-pay?style=flat-square&logo=github)](https://github.com/Ranjeet2063/nepal-pay) | Unified, zero-dependency payment gateway SDK for eSewa (V2), Khalti (V2) & Fonepay | TypeScript • Web Crypto • Node • Bun |
-| **[sorobanflow](https://github.com/Ranjeet2063/sorobanflow)** | [![GitHub](https://img.shields.io/github/stars/Ranjeet2063/sorobanflow?style=flat-square&logo=github)](https://github.com/Ranjeet2063/sorobanflow) | Continuous real-time streaming payment & payroll protocol on Stellar | Rust • Soroban SDK • Smart Contracts |
+Support the continuous development of open-source formal verification provers, mathematical invariants, and autonomous security systems:
 
----
-
-### 🛠️ Core Engineering Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soroban%20%2F%20Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+| Tier | Commitment | Impact & Benefits |
+| :--- | :--- | :--- |
+| **☕ Individual Supporter** | **$5 / month** | Official supporter badge + inclusion in release changelogs |
+| **🛡️ Open-Source Backer** | **$25 / month** | Name listed in repository READMEs + direct private discussions |
+| **🥉 Bronze Sponsor** | **$100 / month** | Priority issue triage + security review advice for small contracts |
+| **🥈 Silver Corporate Sponsor** | **$500 / month** | Corporate logo in READMEs & docs + monthly architecture check-in |
+| **🥇 Gold Strategic Partner** | **$2,500 / month** | Dedicated formal invariant auditing + monthly protocol advisory calls |
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjeet2063&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -187,9 +190,9 @@ Proven track record across leading Web3, AI, and enterprise production codebases
 
 ---
 
-### 📬 Let's Connect
+### 📬 Direct Executive Contact
 
-- **Portfolio Website**: [ranjeet2063.github.io](https://ranjeet2063.github.io)
+- **Personal Portfolio**: [ranjeet2063.github.io](https://ranjeet2063.github.io)
 - **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
 - **Twitter / X**: [@RanjeetBhaxfo](https://x.com/RanjeetBhaxfo)
 - **Email**: [guptakumarranjeet150@gmail.com](mailto:guptakumarranjeet150@gmail.com)
