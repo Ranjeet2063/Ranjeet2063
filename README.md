@@ -64,9 +64,9 @@
   <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Integrations-ElizaOS%20%7C%20Anthropic%20MCP-purple?style=flat-square" /></a>
 </p>
 
-> **The World's First Mathematical Invariant Firewall & Liquidity Safety OS for Autonomous Web3 AI Agents**
+> **Mathematical Invariant Firewall & Liquidity Safety OS for Autonomous Web3 AI Agents**
 > - **The Problem Solved**: Eliminates prompt-injection treasury drains, rogue agent spend loops, and model hallucinations.
-> - **Architecture**: Enforces memory-isolated hardware enclave pattern, sliding-window velocity caps, and balance solvency floors.
+> - **Architecture**: Enforces memory-isolated hardware enclave pattern, sliding-window velocity caps, and balance solvency floors in Pure Rust.
 > - **Instant Install**: `brew tap Ranjeet2063/tap && brew install aetherguard`  
 > 🔗 **Repository**: [github.com/Ranjeet2063/aetherguard](https://github.com/Ranjeet2063/aetherguard) &nbsp;•&nbsp; 🏛️ **Release**: [`v0.1.0`](https://github.com/Ranjeet2063/aetherguard/releases/tag/v0.1.0)
 
@@ -116,8 +116,16 @@
 ---
 
 ### 5. 🌊 [`SorobanFlow`](https://github.com/Ranjeet2063/sorobanflow) — Continuous Streaming Payment Protocol
-> Turnkey automated payroll, continuous streaming & session-guarded vesting protocol on Stellar / Soroban.  
-> 🔗 **Repository**: [github.com/Ranjeet2063/sorobanflow](https://github.com/Ranjeet2063/sorobanflow)
+<p align="left">
+  <a href="https://github.com/Ranjeet2063/sorobanflow"><img src="https://img.shields.io/badge/Language-Soroban%20Rust-orange?style=flat-square&logo=rust&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/sorobanflow/actions"><img src="https://img.shields.io/badge/Tests-20%2F20%20Green-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/Ranjeet2063/sorobanflow"><img src="https://img.shields.io/badge/Invariants-Linear%20Vesting%20%26%20Solvency-blue?style=flat-square" /></a>
+</p>
+
+> **Turnkey Automated Payroll, Continuous Streaming & Session-Guarded Vesting Protocol on Stellar / Soroban**
+> - **Mathematical Invariant Verification**: 20/20 unit tests verifying linear vesting, 1 Billion token boundary safety, and multi-stream solvency invariants.
+> - **Automated CI/CD**: Verified GitHub Actions workflow running cargo test, WASM compilation, and clippy audits.  
+> 🔗 **Repository**: [github.com/Ranjeet2063/sorobanflow](https://github.com/Ranjeet2063/sorobanflow) &nbsp;•&nbsp; 📋 **Changelog**: [`v0.2.0`](https://github.com/Ranjeet2063/sorobanflow/blob/main/CHANGELOG.md)
 
 ---
 
