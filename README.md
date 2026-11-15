@@ -74,7 +74,25 @@
 
 ---
 
-### 2. 🛡️ [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard) — AI Agent Invariant Security OS
+### 2. 🛡️ [`GuardianZero` (`g0`)](https://github.com/Ranjeet2063/guardianzero) — Universal Sovereign AI Guardian & Anti-Drainer Engine (Rust • Crates.io)
+<p align="left">
+  <a href="https://crates.io/crates/guardianzero"><img src="https://img.shields.io/crates/v/guardianzero.svg?style=flat-square&color=orange" /></a>
+  <a href="https://crates.io/crates/guardianzero"><img src="https://img.shields.io/crates/d/guardianzero.svg?style=flat-square&color=blue" /></a>
+  <a href="https://github.com/Ranjeet2063/guardianzero"><img src="https://img.shields.io/badge/Defense-Anti--Drainer%20%7C%20Phishing%20%7C%20Infostealer-crimson?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/guardianzero"><img src="https://img.shields.io/badge/Mode-Interactive%20Conversational%20Guardian-purple?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/guardianzero"><img src="https://img.shields.io/badge/Privacy-100%25%20Offline%20Sovereign-green?style=flat-square" /></a>
+</p>
+
+> **The Sovereign AI Guardian that Protects Millions from Malicious Links, Crypto Drainers & Infostealers.**
+> - **The Problem Solved**: Over $10 Billion USD stolen annually across Web2/Web3 through clipboard hijackers, fake recruiter job offers, malicious Discord attachments, and deceptive `setApprovalForAll` / `Permit2` transaction signatures.
+> - **Multi-Vector Scanning**: Real-time inspection across Suspicious URLs (Punycode, homoglyphs, typosquatting), Smart Contract ABI bytecode signatures, Infostealer malware targeting crypto keystores (`Login Data`, MetaMask, Phantom, Telegram `tdata`), and Social Engineering deception traps.
+> - **Conversational Human Verdicts**: Gives immediate, crystal-clear Roman Hinglish + English verdicts with 0..100 threat scoring.
+> - **Instant Install**: `cargo install guardianzero`  
+> 🔗 **Crates.io**: [crates.io/crates/guardianzero](https://crates.io/crates/guardianzero) &nbsp;•&nbsp; 🏛️ **Repository**: [github.com/Ranjeet2063/guardianzero](https://github.com/Ranjeet2063/guardianzero)
+
+---
+
+### 3. 🛡️ [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard) — AI Agent Invariant Security OS
 <p align="left">
   <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Language-Pure%20Rust-orange?style=flat-square&logo=rust&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-brew%20install%20aetherguard-FBB040?style=flat-square&logo=homebrew&logoColor=white" /></a>
@@ -90,7 +108,7 @@
 
 ---
 
-### 2. 🤖 [`SentinelGuard SaaS`](https://github.com/Ranjeet2063/sentinelguard-saas) — Autonomous GitHub Security Scanner
+### 4. 🤖 [`SentinelGuard SaaS`](https://github.com/Ranjeet2063/sentinelguard-saas) — Autonomous GitHub Security Scanner
 <p align="left">
   <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Platform-GitHub%20Marketplace%20App-2088FF?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063/sentinelguard-saas"><img src="https://img.shields.io/badge/Daemon-24%2F7%20Real--Time%20Audit-22C55E?style=flat-square" /></a>
@@ -105,7 +123,7 @@
 
 ---
 
-### 3. 🔬 [`InvariantForge`](https://github.com/Ranjeet2063/InvariantForge) — Formal Verification & SMT Symbolic Prover
+### 5. 🔬 [`InvariantForge`](https://github.com/Ranjeet2063/InvariantForge) — Formal Verification & SMT Symbolic Prover
 <p align="left">
   <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Engine-Halmos%20%2B%20SMT%20Symbolic%20Prover-blueviolet?style=flat-square" /></a>
   <a href="https://github.com/Ranjeet2063/InvariantForge"><img src="https://img.shields.io/badge/Solvers-Z3%20%7C%20Yices%202-orange?style=flat-square" /></a>
@@ -119,7 +137,7 @@
 
 ---
 
-### 4. 💳 [`NepalPay`](https://github.com/Ranjeet2063/nepal-pay) — Unified Nepal Payment Gateway SDK
+### 6. 💳 [`NepalPay`](https://github.com/Ranjeet2063/nepal-pay) — Unified Nepal Payment Gateway SDK
 <p align="left">
   <a href="https://www.npmjs.com/package/nepal-pay"><img src="https://img.shields.io/npm/v/nepal-pay?color=cb3837&style=flat-square&logo=npm" /></a>
   <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-brew%20install%20nepal--pay-FBB040?style=flat-square&logo=homebrew&logoColor=white" /></a>
@@ -133,7 +151,7 @@
 
 ---
 
-### 5. 🌊 [`SorobanFlow`](https://github.com/Ranjeet2063/sorobanflow) — Continuous Streaming Payment Protocol
+### 7. 🌊 [`SorobanFlow`](https://github.com/Ranjeet2063/sorobanflow) — Continuous Streaming Payment Protocol
 <p align="left">
   <a href="https://github.com/Ranjeet2063/sorobanflow"><img src="https://img.shields.io/badge/Language-Soroban%20Rust-orange?style=flat-square&logo=rust&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063/sorobanflow/actions"><img src="https://img.shields.io/badge/Tests-20%2F20%20Green-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
