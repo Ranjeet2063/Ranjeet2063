@@ -153,21 +153,21 @@ uses: Ranjeet2063/soroban-guard-action@v1
 
 ---
 
-## 🏆 Highlighted Production Merged PRs (222+ Merged)
+## 🏆 Highlighted Production Merged PRs (223+ Merged)
 
 | Organization / Project | Domain & Ecosystem | Highlights & Impact | Status |
 |---|---|---|---|
 | **[TT-Metal (Tenstorrent)](https://github.com/tenstorrent/tt-metal)** | **Silicon AI Hardware (Jim Keller)** ⭐ 5.5k+ | [PR #55213](https://github.com/tenstorrent/tt-metal/pull/55213) — PyTorch top-k golden model lazy import optimization | 🟣 **MERGED ON `main`** |
-| **[ElizaOS / Eliza](https://github.com/elizaOS/eliza)** | **Top Autonomous Web3 AI Framework** ⭐ 19.2k+ | [PR #30298](https://github.com/elizaOS/eliza/pull/30298) — `@elizaos/plugin-technocore` agent memory kit | 🏆 **APPROVED** |
-| **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints) | 🟣 **22 PRs MERGED** |
-| **[Invoice Liquidity Network](https://github.com/Invoice-Liquidity-Network)** | **Institutional DeFi Rails (Stellar)** | [PR #820](https://github.com/Invoice-Liquidity-Network/ILN-Frontend/pull/820) — E2E testnet smoke test resilience & landmark fixes | 🚀 **PR SUBMITTED** |
+| **[Yarsa Labs / Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **Fiscal ERPNext Compliance** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Internationalization & Nepali num2words fallback test suite | 🟣 **MERGED ON `main`** |
 | **[Epta-Node / ai-net](https://github.com/Epta-Node/ai-net)** | **Decentralized AI Agent Network** | [PR #533](https://github.com/Epta-Node/ai-net/pull/533) — Cargo workspace members, orphaned crate compilation | 🟣 **MERGED ON `main`** |
+| **[zkpayroll](https://github.com/zkpayroll)** | **Zero-Knowledge Payroll Protocol** | **22 Merged PRs** across SDK & Smart Contracts (Treasury parsing, employee onboarding, recovery hints) | 🟣 **22 PRs MERGED** |
+| **[Predictify Backend](https://github.com/Predictify-org/predictify-backend)** | **Prediction Market Rails** | [PR #995](https://github.com/Predictify-org/predictify-backend/pull/995) — Claims & payout reconciliation engine | 🟣 **MERGED ON `main`** |
+| **[StellarLend Frontend](https://github.com/StellarLend/Stellarlend-frontend)** | **Stellar Lending Protocol** | [PR #1764](https://github.com/StellarLend/Stellarlend-frontend/pull/1764) — Typed UI primitives & component migration | 🟣 **MERGED ON `main`** |
+| **[Talenttrust Contracts](https://github.com/Talenttrust/Talenttrust-Contracts)** | **Soroban Escrow Protocol** | [PR #1720](https://github.com/Talenttrust/Talenttrust-Contracts/pull/1720) — Admin escrow void mechanisms for fraudulent ratings | 🟣 **MERGED ON `main`** |
+| **[drydocs / meridian](https://github.com/drydocs/meridian)** | **Institutional Stellar Protocol** | [PR #1083](https://github.com/drydocs/meridian/pull/1083) — Scope definition & branch security alignment | 🟣 **MERGED ON `main`** |
 | **[Axionvera Network](https://github.com/Axionvera/axionvera-network)** | **Decentralized Escrow Protocol** | **5 Merged PRs** (Deployment runbooks, MVP fixtures, vault smoke tests) | 🟣 **5 PRs MERGED** |
-| **[Trustless Work](https://github.com/Trustless-Work)** | **Multi-Party Escrow Smart Contracts** | **4 Merged PRs** across agency escrow contracts & testing suites | 🟣 **4 PRs MERGED** |
-| **[drydocs / tholos](https://github.com/drydocs/tholos)** | **Institutional Soroban Vault Protocol** | [PR #168](https://github.com/drydocs/tholos/pull/168) — Soroban smart contract authorization & state management | 🟣 **MERGED ON `main`** |
-| **[Nepal Compliance](https://github.com/yarsa/nepal-compliance)** | **ERPNext Fiscal Compliance (Yarsa Labs)** | [PR #301](https://github.com/yarsa/nepal-compliance/pull/301) — Internationalization & Nepali num2words fallback test suite | 🟣 **MERGED ON `main`** |
 
-👉 **[View all 222+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
+👉 **[View all 223+ Merged Pull Requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3ARanjeet2063+is%3Amerged)**
 
 ---
 
