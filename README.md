@@ -56,7 +56,25 @@
 
 ## 💎 Sovereign Flagship Repositories & Published Infrastructure
 
-### 1. 🛡️ [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard) — AI Agent Invariant Security OS
+### 1. ⚡ [`TraceZero`](https://github.com/Ranjeet2063/tracezero) — Sub-Millisecond Ephemeral Process Sandbox & Rollback Engine (Rust • Crates.io)
+<p align="left">
+  <a href="https://crates.io/crates/tracezero"><img src="https://img.shields.io/crates/v/tracezero.svg?style=flat-square&color=orange" /></a>
+  <a href="https://crates.io/crates/tracezero"><img src="https://img.shields.io/crates/d/tracezero.svg?style=flat-square&color=blue" /></a>
+  <a href="https://github.com/Ranjeet2063/tracezero"><img src="https://img.shields.io/badge/Rollback%20Latency-0.18ms-success?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/tracezero"><img src="https://img.shields.io/badge/Kernel%20CoW-FICLONE%20Reflink-blue?style=flat-square" /></a>
+  <a href="https://github.com/Ranjeet2063/tracezero"><img src="https://img.shields.io/badge/Privileges-100%25%20Unprivileged-green?style=flat-square" /></a>
+</p>
+
+> **The Microsecond Ephemeral Process Sandbox & Instant Time-Travel Rollback Engine.**
+> - **The Problem Solved**: Eliminates dirty state, process residue, and workspace corruption caused by autonomous AI coding agents (Cursor, Claude Code, Devin) and untrusted build scripts.
+> - **Performance**: 0.16ms launch latency (18,000x faster than Docker), 0MB idle memory overhead, and instant 0.18ms atomic time-travel rollback.
+> - **Kernel Extents**: Linux `FICLONE` hardware reflink CoW acceleration with seamless user-space fallback.
+> - **Instant Install**: `cargo install tracezero`  
+> 🔗 **Crates.io**: [crates.io/crates/tracezero](https://crates.io/crates/tracezero) &nbsp;•&nbsp; 🏛️ **Repository**: [github.com/Ranjeet2063/tracezero](https://github.com/Ranjeet2063/tracezero)
+
+---
+
+### 2. 🛡️ [`AetherGuard`](https://github.com/Ranjeet2063/aetherguard) — AI Agent Invariant Security OS
 <p align="left">
   <a href="https://github.com/Ranjeet2063/aetherguard"><img src="https://img.shields.io/badge/Language-Pure%20Rust-orange?style=flat-square&logo=rust&logoColor=white" /></a>
   <a href="https://github.com/Ranjeet2063/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-brew%20install%20aetherguard-FBB040?style=flat-square&logo=homebrew&logoColor=white" /></a>
